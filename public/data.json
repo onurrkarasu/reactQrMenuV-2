@@ -1,0 +1,99 @@
+{
+  "cafe": { "name": "DreamCafe", "logo": "/logo.svg", "currency": "TRY" },
+  "categories": [
+    {
+      "id": "coffee",
+      "name": "Kahveler",
+      "items": [
+        {
+          "id": "espresso",
+          "name": "Espresso",
+          "desc": "Yoğun tek shot",
+          "price": 70,
+          "image": "https://images.unsplash.com/photo-1510627498534-cf7e9002facc?q=80&w=1200&auto=format&fit=crop"
+        },
+        {
+          "id": "latte",
+          "name": "Latte",
+          "desc": "Sütlü yumuşak içim",
+          "price": 95,
+          "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1200&auto=format&fit=crop"
+        },
+        {
+          "id": "cappuccino",
+          "name": "Cappuccino",
+          "desc": "Köpüklü klasik",
+          "price": 90,
+          "image": "https://images.unsplash.com/photo-1461988625982-7e46a099bf4f?q=80&w=1200&auto=format&fit=crop"
+        },
+        {
+          "id": "americano",
+          "name": "Americano",
+          "desc": "Sıcak su + espresso",
+          "price": 75,
+          "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=1200&auto=format&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": "iced",
+      "name": "Soğuk İçecekler",
+      "items": [
+        {
+          "id": "iced-latte",
+          "name": "Iced Latte",
+          "desc": "Serinletici",
+          "price": 110,
+          "image": "https://images.unsplash.com/photo-1524946274118-e2125bac5b2e?q=80&w=1200&auto=format&fit=crop"
+        },
+        {
+          "id": "cold-brew",
+          "name": "Cold Brew",
+          "desc": "Yavaş demleme",
+          "price": 120,
+          "image": "https://images.unsplash.com/photo-1517702166878-395368b5a0e5?q=80&w=1200&auto=format&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": "tea",
+      "name": "Çaylar",
+      "items": [
+        {
+          "id": "black-tea",
+          "name": "Siyah Çay",
+          "desc": "Demli",
+          "price": 25,
+          "image": "https://images.unsplash.com/photo-1517705008128-361805f42e86?q=80&w=1200&auto=format&fit=crop"
+        },
+        {
+          "id": "green-tea",
+          "name": "Yeşil Çay",
+          "desc": "Hafif ve ferah",
+          "price": 30,
+          "image": "https://images.unsplash.com/photo-1505575972945-338c3fdde391?q=80&w=1200&auto=format&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "name": "Tatlılar",
+      "items": [
+        {
+          "id": "cheesecake",
+          "name": "Cheesecake",
+          "desc": "Kremamsı klasik",
+          "price": 120,
+          "image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?q=80&w=1200&auto=format&fit=crop"
+        },
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "desc": "Yoğun çikolatalı",
+          "price": 110,
+          "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476e?q=80&w=1200&auto=format&fit=crop"
+        }
+      ]
+    }
+  ]
+}
